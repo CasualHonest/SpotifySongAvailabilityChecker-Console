@@ -1,0 +1,1 @@
+SpotifySongAvailabilityChecker-Console
